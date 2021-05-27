@@ -22,6 +22,8 @@ $ brane import sasjaderuijter/plot
 ```
 
 ## Using the packages
+Place the datasets needed in the shared filesystem of Brane (/data/).
+Example datasets are provided in Group12_WSCBS/data.
 Import the packages using BraneScript in a JupyterLab notebook.
 ```shell
 import etl;
