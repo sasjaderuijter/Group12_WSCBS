@@ -45,12 +45,12 @@ Create the heart disease training data, using the dataset _heart_disease.csv_
 create_heart_disease_trainset("/data/heart_disease");
 ```
 ### create_prediction
-Run a regression model on a trainingset, using the example dataset _titanic_trainset.csv_
+Run a regression model on a trainingset using one of the example training datasets, for example _titanic_trainset.csv_
 ```shell
 run_regression("/data/titanic_trainset");
 ```
 
-Run a random forest model on a trainingset, using the example dataset _titanic_trainset.csv_
+Run a random forest model on a trainingsetusing one of the example training datasets, for example _titanic_trainset.csv_
 ```shell
 run_random_forest("/data/titanic_trainset");
 ```
