@@ -64,3 +64,6 @@ Create a boxplot, using the example dataset _titanic_trainset.csv_
 ```shell
 create_boxplot("/data/titanic_trainset");
 ```
+
+
+[![DOI](https://zenodo.org/badge/371352630.svg)](https://zenodo.org/badge/latestdoi/371352630)
